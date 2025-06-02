@@ -1,7 +1,7 @@
 # COURSES_REST_API
 
-COURSES_REST_API is a small project that demonstrates RESTFUL API.
-It only uses a js array as a datasource.
+COURSES_REST_API is a small project that demonstrates RESTFUL API.\
+It only uses a js array as a datasource.\
 It performs CRUD operations.
 
 ## Installation
