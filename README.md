@@ -8,7 +8,7 @@ It performs CRUD operations.
 
 The following will be installed:
 1. express - restful api framework
-2. nodemon - allows automatic update of the service remowing the need to restart the service when there are updates. This will be installed globally
+2. nodemon - allows automatic update of the service removing the need to restart the service when there are updates. This will be installed globally
 3. joi - used to validate req.body during insert/post and update/put
 
 Open new terminal, make sure you are in root dir.\
