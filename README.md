@@ -7,11 +7,11 @@ It performs CRUD operations.
 ## Installation
 
 The following will be installed:
-express - restful api framework
-nodemon - allows automatic update of the service remowing the need to restart the service when there are updates. This will be installed globally
-joi - used to validate req.body during insert/post and update/put
+1. express - restful api framework
+2. nodemon - allows automatic update of the service remowing the need to restart the service when there are updates. This will be installed globally
+3. joi - used to validate req.body during insert/post and update/put
 
-Open new terminal, make sure you are in root dir.
+Open new terminal, make sure you are in root dir.\
 Install dependencies using command below
 
 ```console
